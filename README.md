@@ -17,6 +17,6 @@ Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos s
 
 * ¿Es posible correlacionar las olas de calor urbano con la evolución historica de la vegetación evaluada con imagenes MODIS?
 
-* ...
+* 4
 
 * ...
