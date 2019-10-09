@@ -13,7 +13,7 @@ Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos s
 
 * ¿Es posible identificar y estimar los niveles de contaminantes atmosféricos que afectan la calidad del aire del Distrito Nacional en la ciudad de Santo Domingo a través de información satelital?
 
-* ¿Es posible determinar la afectacion de potencial hidroelectrico de la cuenca hidrografica Yaque del Norte de la Republica Dominicana mediante la clasificación de la capa vegetal mediante datos satelitales?
+* ¿Es posible determinar la afectacion de potencial hidroelectrico de la cuenca hidrografica Yaque del Norte de la Republica Dominicana mediante la clasificación de la capa vegetal a partir de datos satelitales?
 
 * ¿Es posible correlacionar las olas de calor urbano con la evolución historica de la vegetación evaluada con imagenes MODIS?
 
